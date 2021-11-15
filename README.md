@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning competitive programming and front-end technology. 
 - 💞️ I’m looking to collaborate on open source contributions like hacktoberfest,stackoverflow,GSOC.
 - 💬 Ask me about anything tech related stuff.
-- 📫 How to reach me: Twitter- samarth22957926,Insta:https://www.instagram.com/samarth04
+- 📫 How to reach me: Twitter- @samarth22957926,Insta:https://www.instagram.com/samarth04
 - 👀 You can visit my portfolio:https://samarthsinha.netlify.app/
 - 💞️ pronouns:He/His
 - ⚡️ I can do lot of stuffs
