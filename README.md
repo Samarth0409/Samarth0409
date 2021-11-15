@@ -1,3 +1,4 @@
+  Hi there 👋, I'm Samarth Sinha, an aspirant programmer who loves to solve real life-based problems.
   Talking in more detail:
 - ⚡️ I'm currently pursuing my B. tech in Computer Science and Engineering at Vellore Institute of Technology;
 - 👀 I’m interested in solving real-life problem.
