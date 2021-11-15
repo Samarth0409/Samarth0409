@@ -5,12 +5,9 @@
 - 🌱 I’m currently learning competitive programming and front-end technology. 
 - 💞️ I’m looking to collaborate on open source contributions like hacktoberfest,stackoverflow,GSOC.
 - 💬 Ask me about anything tech related stuff.
-- 📫 How to reach me: Twitter-@samarth22957926,Insta:https://www.instagram.com/samarth04
+- 📫 How to reach me: [Twitter-@samarth22957926](https://twitter.com/samarth22957926), Insta: https://www.instagram.com/samarth04
 - 👀 You can visit my portfolio:https://samarthsinha.netlify.app/
 - 💞️ pronouns:He/His
 - ⚡️ I can do lot of stuffs
 
-<!---
-Samarth0409/Samarth0409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=Samarth0409&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
