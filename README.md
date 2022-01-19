@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **https://samarthsinha.netlify.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TRxVdQf53BlKh1P6fahiWsz1HhwgTapi/view](https://drive.google.com/file/d/1TRxVdQf53BlKh1P6fahiWsz1HhwgTapi/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1znBrJ8b5mojNPoYPykslJ8CxCRJsvEGj/view?usp=sharing](https://drive.google.com/file/d/1znBrJ8b5mojNPoYPykslJ8CxCRJsvEGj/view?usp=sharing)
 
 - ⚡ Fun fact **I can do lot of stuffs.**
 
