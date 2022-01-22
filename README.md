@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Frontend tools,Stack,Queues,LL,DLL,DP**
 
-- 📫 How to reach me **https://samarthsinha.netlify.app/**
+- 📫 How to reach me **https://samarthsinha.netlify.app/** **Samarth.Sinha@studentambassadors.com**;
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1znBrJ8b5mojNPoYPykslJ8CxCRJsvEGj/view?usp=sharing](https://drive.google.com/file/d/1znBrJ8b5mojNPoYPykslJ8CxCRJsvEGj/view?usp=sharing)
 
