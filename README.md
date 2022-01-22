@@ -21,8 +21,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1znBrJ8b5mojNPoYPykslJ8CxCRJsvEGj/view?usp=sharing](https://drive.google.com/file/d/1znBrJ8b5mojNPoYPykslJ8CxCRJsvEGj/view?usp=sharing)
 
 - ⚡ Fun fact **I can do lot of stuffs.**
-- 
-![1621604613028](https://user-images.githubusercontent.com/66549823/150632013-ddd01b07-c678-4187-a619-602151edffe3.jpg)
+- ![1621604613028](https://user-images.githubusercontent.com/66549823/150632013-ddd01b07-c678-4187-a619-602151edffe3.jpg)
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fe43b680e57d08177b4fd5e88969604145a2…386661545345487056535255485371665f5767306c5230423063327a543238786f7a75766f">
  
