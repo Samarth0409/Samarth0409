@@ -1,4 +1,5 @@
- <h1 align="center">Hi 👋, I'm Samarth Sinha</h1>
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Samarth+Sinha) 
+<h1 align="center">Hi 👋, I'm Samarth Sinha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth0409" alt="samarth0409" /></a> </p>
