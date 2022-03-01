@@ -53,3 +53,6 @@
 <img align="center" src="https://camo.githubusercontent.com/12869748385397ea1a9cbd8ed184a54c1cdda5b9f329b1c1aea23faa1cf8c971/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6973686974616b6573686177616e69267468656d653d7261646963616c">
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Samarth0409&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
+
+![snake gif](https://github.com/belikeamitesh/Samarth0409/blob/output/github-contribution-grid-snake.gif)
+   
