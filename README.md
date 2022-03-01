@@ -59,6 +59,6 @@
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Samarth0409&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
-     ![snake gif](https://github.com/Samarth0409/Samarth0409/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Samarth0409/Samarth0409/blob/output/github-contribution-grid-snake.gif)
    
 <img align='center'  height="70" alt="Thank You" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
