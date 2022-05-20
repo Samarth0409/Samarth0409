@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/samarth04_" target="blank"><img src="https://img.shields.io/twitter/follow/samarth04_?logo=twitter&style=for-the-badge" alt="samarth" /></a> </p>
 
 
-- 🔭 I’m currently working on [Product Assesment Using NLP and Supervised Learning](https://towardsdatascience.com/e-commerce-reviews-analysis-902210726d47)
+- 🔭 I’m currently working on [Automatic License Number Plate Recognition System](https://towardsdatascience.com/e-commerce-reviews-analysis-902210726d47)
 
 - 🌱 I’m currently learning **ExpressJS,ReactJS,Django,AngularJS,DSA Algo**
 
@@ -60,4 +60,4 @@
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Samarth0409&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
 
-<img align='center'  height="70" alt="Thank You" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
+<img align='center'  height="70" alt="Thank You" width="100%" src="https://github.com/Samarth0409/Samarth0409/blob/master/Profile%20generator/marquee.svg"/>
