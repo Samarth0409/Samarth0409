@@ -1,6 +1,5 @@
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Samarth+Sinha) 
-<div align="center">
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+<div align="center"> 
    <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </div>
 <h1 align="center">Hi 👋, I'm Samarth Sinha</h1>
