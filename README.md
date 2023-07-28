@@ -3,7 +3,7 @@
    <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </div>
 <h1 align="center">Hi 👋, I'm Samarth Sinha</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Sotware Configuration and Developer(MD_IDS) at Eli Lilly Service India Pvt Ltd.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth0409" alt="samarth0409" /></a> </p>
 
