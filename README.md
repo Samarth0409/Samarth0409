@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth0409" alt="samarth0409" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/samarth04_" target="blank"><img src="https://img.shields.io/twitter/follow/samarth04_?logo=twitter&style=for-the-badge" alt="samarth" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SSinha12463" target="blank"><img src="https://img.shields.io/twitter/follow/samarth04_?logo=twitter&style=for-the-badge" alt="samarth" /></a> </p>
 
 
 - 🔭 I’m currently working on [Automatic License Number Plate Recognition System](https://towardsdatascience.com/e-commerce-reviews-analysis-902210726d47)
