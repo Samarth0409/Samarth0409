@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **https://samarthsinha.netlify.app/** **Samarth.Sinha@studentambassadors.com**;
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1znBrJ8b5mojNPoYPykslJ8CxCRJsvEGj/view?usp=sharing](https://drive.google.com/file/d/1znBrJ8b5mojNPoYPykslJ8CxCRJsvEGj/view?usp=sharing)
+- 📄 Know about my works and experiences [https://drive.google.com/file/d/1o_1MZiILWwtBljBK77evsRG3LIPz3yRl/view?usp=sharing](https://drive.google.com/file/d/1o_1MZiILWwtBljBK77evsRG3LIPz3yRl/view?usp=sharing)
 
 - ⚡ Fun fact **I can do lot of stuffs.**
 
