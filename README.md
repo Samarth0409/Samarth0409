@@ -10,17 +10,17 @@
 <p align="left"> <a href="https://twitter.com/SSinha12463" target="blank"><img src="https://img.shields.io/twitter/follow/samarth04_?logo=twitter&style=for-the-badge" alt="samarth" /></a> </p>
 
 
-- 🔭 I’m currently working on [Automatic License Number Plate Recognition System](https://towardsdatascience.com/e-commerce-reviews-analysis-902210726d47)
+- 🔭 I’m currently working on [Software Defect Prediction using Machine Learning Algorithms](https://towardsdatascience.com/e-commerce-reviews-analysis-902210726d47)
 
-- 🌱 I’m currently learning **ExpressJS,ReactJS,Django,AngularJS,DSA Algo**
+- 🌱 I’m currently learning **AWS,ReactJS,Python,Machine Learning,DSA Algo**
 
-- 👯 I’m looking to collaborate on **GSOC22,StackOverflow**
+- 👯 I’m looking to collaborate on **GSOC23,StackOverflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samarth0409](https://github.com/Samarth0409)
 
-- 💬 Ask me about **Frontend tools,Stack,Queues,LL,DLL,DP**
+- 💬 Ask me about **Frontend tools,NLP,Data Science,ReactJS,DSA**
 
-- 📫 How to reach me **https://samarthsinha.netlify.app/** **Samarth.Sinha@studentambassadors.com**;
+- 📫 How to reach me **https://samarthsinha.netlify.app/**;
 
 - 📄 Know about my works and experiences [https://drive.google.com/file/d/1o_1MZiILWwtBljBK77evsRG3LIPz3yRl/view?usp=sharing](https://drive.google.com/file/d/1o_1MZiILWwtBljBK77evsRG3LIPz3yRl/view?usp=sharing)
 
